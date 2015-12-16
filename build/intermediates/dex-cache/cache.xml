@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/feltsan/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.10.1/a87cb993a12e574a216213d0b8b2b78f6da35d37/parse-android-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a87cb993a12e574a216213d0b8b2b78f6da35d37">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/parse-android-1.10.1-4c61ee2cc333993acf2cff75741437e105933f84.jar" />
+    </item>
+    <item
+        jar="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/classes-23aad3441b5a483be642f6c99cbd3f4374c4f358.jar" />
+    </item>
+    <item
+        jar="/media/feltsan/1/work/proga/Onysko/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/additionnal-3eb95bc50f60225e392ed70d99c8dd1107feca49.jar" />
+    </item>
+    <item
+        jar="/home/feltsan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.3.0-7a28f68017df419bf7347af4bfa15f5a6b9855bf.jar" />
+    </item>
+    <item
+        jar="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-2ecf534570b0b56a2c4b0ba485d7dbfa099c431c.jar" />
+    </item>
+    <item
+        jar="/home/feltsan/dev/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-d09d5a6fede19b840dd68e23f27f5fec81d46b3d.jar" />
+    </item>
+    <item
+        jar="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/exploded-aar/Onysko/ParseUI-Widget/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="591d13534eb3fbdcb9fab8a52f676f4148b23bdd">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/classes-a598c133a588e988ef658cb905a4c37b1bf1d44a.jar" />
+    </item>
+    <item
+        jar="/home/feltsan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0-d106bf236f20fee706441535bd52b0cddb5c396f.jar" />
+    </item>
+    <item
+        jar="/media/feltsan/1/work/proga/Onysko/app/libs/activation.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/activation-044f5d456af6e1d6b89c3e4292c37837feb33c9c.jar" />
+    </item>
+    <item
+        jar="/media/feltsan/1/work/proga/Onysko/app/libs/mail.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/mail-b9eee921d52b711527f57dbb4b0ae578f4db65e0.jar" />
+    </item>
+    <item
+        jar="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/classes-c0a907604f1afa5381093953f0f533fe2b348517.jar" />
+    </item>
+    <item
+        jar="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/media/feltsan/1/work/proga/Onysko/app/build/intermediates/pre-dexed/debug/classes-3b18ec759762da2583ccce53593d8522bbcdba91.jar" />
+    </item>
+
+</items>
